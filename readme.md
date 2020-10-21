@@ -29,3 +29,10 @@ A few words about yourself <br>
 - **Interests:** Pure Mathematics, Web Development, CP, AI(Machine Learning, Deep Learning and Data Science), Game Development(Designing and coding)
 - **Hobbies:** Reading, Playing Guitar, Gaming, Browsing random topics (I don't go out too much!)
 - **About Myself:** Hi! I'm Md Ahnaf Sadik Inan. As you can see, I have a lot of interests but no professional experience. Mathematica peaked my interest into coding. But I think my base language is Python. For web development I can work with JavaScript. This year I got a bit good working with fortran and C. Actually I  think I can adopt into any language if needed and am always interested to learn new things. 
+
+**Foyz Ahmmed Raju**
+
+**Academic Status:** 2nd year, B.Sc Honours, Departement of Mathematics, University of Dhaka, Bangladesh.
+**Interests:** Web Development,Singing,Playing,Learning.
+**Hobbies:** Being Mathematician.
+**About Myself:** Hi! I am Foyz Ahmmed Raju.I have learned Web Development,a little bit Java,Mathematical Thinking in Computer Science.I have no professional experience but I always love to work with new idea.
