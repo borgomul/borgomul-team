@@ -29,3 +29,10 @@ A few words about yourself <br>
 - **Interests:** Pure Mathematics, Web Development, CP, AI(Machine Learning, Deep Learning and Data Science), Game Development(Designing and coding)
 - **Hobbies:** Reading, Playing Guitar, Gaming, Browsing random topics (I don't go out too much!)
 - **About Myself:** Hi! I'm Md Ahnaf Sadik Inan. As you can see, I have a lot of interests but no professional experience. Mathematica peaked my interest into coding. But I think my base language is Python. For web development I can work with JavaScript. This year I got a bit good working with fortran and C. Actually I  think I can adopt into any language if needed and am always interested to learn new things. 
+
+**Ardhendu Das**
+
+- **Academic status**: 2nd year, B.Sc (Honors) in _Mathematics_ at University of Dhaka, Bangladesh.
+- **Interests**: CP, Web Development.
+- **Hobbies**: N/A
+- **About Myself**: Hi! I am Ardhendu Das. Newbie in web-development.
