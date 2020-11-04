@@ -18,7 +18,8 @@ A few words about yourself <br>
 
 **Emon Hossain**
 
-- **Professional status:** Backend Developer
+- **Professional status:** Fullstack Developer
+- **Academic Status:** 3rd year, B.Sc Honours, Departement of Mathematics, University of Dhaka, Bangladesh.
 - **Interests:** Web Development, Machine Learning, Micro Services and System Design
 - **Hobbies**: Reading, Volunteering, Travelling
 - **About myself:** Hello! I’m Emon Hossain. I develop web applications. My core skill is based on JavaScript and I love to do most the things using JavaScript. I am a passionate programmer, developer, and learner. I love to eat and coding. 
